@@ -8,7 +8,7 @@ This dashboard reveals customer behavior, demand patterns, revenue contribution,
 
 ## 📊 Dashboard Preview
 
-![Dashboard](assets\db.jpg)
+![Dashboard](assets/db.jpg)
 
 ---
 
